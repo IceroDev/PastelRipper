@@ -1,5 +1,5 @@
 <h1 align="center">PastelRipper</h1>
-<h3 align="center">Un script en javascript pour télécharger en masse les documents sur projet-pastel.be </h3>
+<h3 align="center">Un script Open Source en javascript pour télécharger en masse les documents sur projet-pastel.be </h3>
 <h4 align="center">Created with ❤️</h4>
 <p align="center">
   <a href="https://github.com/IceroDev/PastelRipper"><img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/IceroDev/PastelRipper?style=for-the-badge"></a> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/IceroDev/PastelRipper?style=for-the-badge"> <a href="https://github.com/IceroDev/PastelRipper"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/IceroDev/PastelRipper?style=for-the-badge"></a>
