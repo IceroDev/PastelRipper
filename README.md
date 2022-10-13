@@ -18,6 +18,21 @@
 </ol>
 </p>
 
+
+<h2>Retirer l'ouverture automatique des PDF's sur Firefox</h2>
+<p>
+L'ouverture automatique des PDF peut poser problème si votre navigateur le propose. Pour désactiver l'option sur Firefox :
+
+<ol>
+<li>Cliquez sur les 3 barres en haut à droite</li>
+<li>Cliquez sur "settings" ou "paramètres"</li>
+<li>Descendez dans la catégorie générale jusque "Files and applications" ou "Fichiers et applications"</li>
+<li>Recherchez "PDF"</li>
+<li>Changez l'ouverture avec Firefox vers "enregistrer le fichier</li>
+</ol>
+</p>
+
+
 <h2>Attention !</h2>
 <p>PastelRipper n'est ni lié, ni approuvé par Projet-Pastel. Utilisation a vos risques et périls. Le script n'est qu'a vocation éducative.
 </p>
